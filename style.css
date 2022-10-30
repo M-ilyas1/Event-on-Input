@@ -1,0 +1,35 @@
+#name{
+    width: 200px;
+    padding: 25px;
+    border: 2px solid green;
+    font-size: 18px;
+    margin: 10px;
+    border-radius: 40px;
+
+}
+#password{
+    width: 200px;
+    padding: 25px;
+    border: 2px solid green;
+    outline: none;
+    font-size: 18px;
+    margin: 10px;
+    /* border: none; */
+    border-radius: 40px;
+}
+#btn{
+    width: 250px;
+    padding: 25px;
+    border: 2px solid green;
+    outline: none;
+    font-size: 18px;
+    margin: 10px;
+    border-radius: 40px;
+    background-color: transparent;
+    transition: 0.5s;
+}
+#btn:hover{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
